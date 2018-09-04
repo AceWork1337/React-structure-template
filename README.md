@@ -12,6 +12,6 @@
 
 `npm start` or `yarn start`
 
-##Author
+## Author
 
 [Aleksandar S.](https://github.com/AceWork1337) - Full stack web developer
